@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=~/repositories/nodejs
+    - export DEPLOYPATH=/home/dqwbuokw/repositories/nodejs
     - /bin/sh $DEPLOYPATH/deploy.sh
